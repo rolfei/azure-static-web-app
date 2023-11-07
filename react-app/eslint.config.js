@@ -6,7 +6,8 @@ export default [
       "plugin:react/recommended",
       "plugin:jsx-a11y/recommended",
       "prettier",
-      "airbnb"
+      "airbnb",
+      "react-app"
     ],
     "rules": {
       "react/prop-types": 0,
